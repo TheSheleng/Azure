@@ -1,0 +1,6 @@
+@CosmosEfDemo_HostAddress = http://localhost:5062
+
+GET {{CosmosEfDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
